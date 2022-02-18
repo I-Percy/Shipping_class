@@ -1,0 +1,11 @@
+A shipping container management system. 
+
+The shipyard consists of containers, each heading to a certain destination. 
+Each container contains packages and each package has an owner, destination, 
+weight, and a unique id tag. 
+Each time a shipping item is placed in a container that is going to their 
+destination, it must be placed so the lightest items are at the top of the 
+container. Shipping containers require unique id numbers, have a capacity of 
+2000 lbs, and have a destination once any goods are placed in them.
+Shipping containers should be sorted so that the destinations are in 
+alphabetical order, for easier train loading. 
